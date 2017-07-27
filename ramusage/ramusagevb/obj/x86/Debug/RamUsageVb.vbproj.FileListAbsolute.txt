@@ -1,0 +1,20 @@
+C:\Progetti\RamUsageVb\RamUsageVb\bin\Debug\RamUsageVb.exe
+C:\Progetti\RamUsageVb\RamUsageVb\bin\Debug\RamUsageVb.pdb
+C:\Progetti\RamUsageVb\RamUsageVb\bin\Debug\RamUsageVb.xml
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\RamUsageVb.frmWinCounter.resources
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\RamUsageVb.Resources.resources
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\RamUsageVb.exe
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\RamUsageVb.xml
+C:\Progetti\RamUsageVb\RamUsageVb\obj\x86\Debug\RamUsageVb.pdb
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\obj\x86\Debug\RamUsageVb.exe
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\obj\x86\Debug\RamUsageVb.xml
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\obj\x86\Debug\RamUsageVb.pdb
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\bin\Debug\RamUsageVb.exe
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\bin\Debug\RamUsageVb.pdb
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\bin\Debug\RamUsageVb.xml
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\obj\x86\Debug\RamUsageVb.frmWinCounter.resources
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\obj\x86\Debug\RamUsageVb.Resources.resources
+C:\Users\country\Documents\Visual Studio 2013\Projects\RamUsage\RamUsageVb\obj\x86\Debug\RamUsageVb.vbproj.GenerateResource.Cache
